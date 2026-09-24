@@ -1,6 +1,8 @@
 # Peter · Personal Website
 
-一个现代渐变深色风格的个人静态网站，纯 HTML / CSS / JavaScript，无任何构建步骤，部署于 **GitHub Pages**。
+一个现代渐变浅色风格的个人静态网站，纯 HTML / CSS / JavaScript，无任何构建步骤，部署于 **GitHub Pages**。
+
+页面包含：Hero、关于、技能、经历（时间线）、项目、文章、联系等示例板块。
 
 ## 本地预览
 
